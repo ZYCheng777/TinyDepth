@@ -1,6 +1,6 @@
 # TinyDepth
 
-This work is an early version of our submission paper, TinyDepth: Lightweight Self-Supervised Monocular Depth Estimation Based on Transformer, (TCSVT).
+This work is an early version of our submission paper, TinyDepth: Lightweight Self-Supervised Monocular Depth Estimation Based on Transformer.
 
 
 We will update the full version after the article is accepted, please consider citing it if you think it is a useful work.
