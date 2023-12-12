@@ -10,6 +10,7 @@ import torch
 import torch.nn as nn
 
 
+
 class PoseCNN(nn.Module):
     def __init__(self, num_input_frames):
         super(PoseCNN, self).__init__()

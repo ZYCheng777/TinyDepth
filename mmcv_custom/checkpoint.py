@@ -22,6 +22,7 @@ from mmcv.parallel import is_module_wrapper
 from mmcv.utils import mkdir_or_exist
 from mmcv.runner import get_dist_info
 
+
 ENV_MMCV_HOME = 'MMCV_HOME'
 ENV_XDG_CACHE_HOME = 'XDG_CACHE_HOME'
 DEFAULT_CACHE_DIR = '~/.cache'

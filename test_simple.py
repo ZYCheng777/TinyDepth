@@ -25,6 +25,7 @@ from utils import download_model_if_doesnt_exist
 from utils import readlines
 import matplotlib.pyplot as plt
 
+
 splits_dir = os.path.join(os.path.dirname(__file__), "splits")
 MIN_DEPTH = 1e-3
 MAX_DEPTH = 80

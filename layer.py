@@ -14,6 +14,8 @@ import torch.nn.functional as F
 # from mmcv.cnn import constant_init, kaiming_init
 
 
+
+
 def disp_to_depth(disp, min_depth, max_depth):
     """Convert network's sigmoid output into depth prediction
     The formula for this conversion is given in the 'additional considerations'

@@ -20,6 +20,7 @@ import networks
 from networks.configuration import get_config
 
 
+
 # from https://github.com/tinghuiz/SfMLearner
 def dump_xyz(source_to_target_transformations):
     xyzs = []

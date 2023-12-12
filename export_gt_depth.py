@@ -16,6 +16,7 @@ from utils import readlines
 from kitti_utils import generate_depth_map
 
 
+
 def export_gt_depths_kitti():
 
     parser = argparse.ArgumentParser(description='export_gt_depth')

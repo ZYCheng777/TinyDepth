@@ -5,6 +5,7 @@ import math
 from torch.nn import functional as F
 
 
+
 __all__ = ['scale_casa']
 class ChannelAttention_HAM(nn.Module):
     def __init__(self, in_channel):
