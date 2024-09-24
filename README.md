@@ -1,9 +1,23 @@
 # TinyDepth
 
-This work is an early version of our submission paper, TinyDepth: Lightweight Self-Supervised Monocular Depth Estimation Based on Transformer.
+This work is our paper, TinyDepth: Lightweight Self-Supervised Monocular Depth Estimation Based on Transformer.
+[[paper link]](https://www.sciencedirect.com/science/article/pii/S0952197624014714)
 
 
-We will update the full version after the article is accepted, please consider citing it if you think it is a useful work.
+Please consider citing it if you think it is a useful work.
+## Citation
+
+    @article{cheng2024tinydepth,
+    title    ={TinyDepth: Lightweight self-supervised monocular depth estimation based on transformer},
+    author   ={Cheng, Zeyu and Zhang, Yi and Yu, Yang and Song, Zhe and Tang, Chengkai},
+    journal  ={Engineering Applications of Artificial Intelligence},
+    volume   ={138},
+    pages    ={109313},
+    year     ={2024},
+    publisher={Elsevier}
+    }
+
+
 
 
 ## Results on KITTI dataset
